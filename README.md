@@ -5,7 +5,7 @@ Luis Fernando Bernal Ramirez
 
 Ana Sofía Bermúdez Orozco
 
-Video Explicativo: 
+Video Explicativo: https://www.youtube.com/watch?v=FUkcM602deg
 
 ---
 
