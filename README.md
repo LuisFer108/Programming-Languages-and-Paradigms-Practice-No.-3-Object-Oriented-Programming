@@ -10,7 +10,7 @@ Video Explicativo:
 ---
 
 ## Linear regression challenge
-Se nos pide diseñar e implementar un marco de trabajo orientado a objetos para computar multiples modelos de regresión lineal
+Se nos pide diseñar e implementar un marco de trabajo orientado a objetos para computar multiples modelos de regresión lineal.
 
 ---
 ### Clases
